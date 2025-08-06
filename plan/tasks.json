@@ -1,0 +1,20 @@
+[
+  {
+    "id": "task-1",
+    "agent": "frontend-developer",
+    "description": "Create a basic HTML file structure",
+    "file_path": "public/index.html"
+  },
+  {
+    "id": "task-2",
+    "agent": "frontend-developer",
+    "description": "Add a title element to the HTML page",
+    "file_path": "public/index.html"
+  },
+  {
+    "id": "task-3",
+    "agent": "frontend-developer",
+    "description": "Add a paragraph element to the HTML page",
+    "file_path": "public/index.html"
+  }
+]
